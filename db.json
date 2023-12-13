@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 5866744084168704,
+      "username": "nik",
+      "email": "nik@gmail.com",
+      "password": "$2a$10$BtjiU.e4W7Mz2ybojrYfouw9tR.bcdVfj9//J04DBtTukEekVFaCm",
+      "signUpDate": 1702281806888
+    },
+    {
+      "id": 4603475312771072,
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "password": "$2a$10$/ZvVLlvuyWJOVduSjaQ9YO84VX8vwI3DCsCk0EGrHm9cMFOdGqSgy",
+      "signUpDate": 1702281890920
+    }
+  ],
+  "notes": [
+    {
+      "name": "a123",
+      "body": "",
+      "time": 1702467677850,
+      "id": 1
+    },
+    {
+      "name": "b",
+      "body": "",
+      "time": 1702467702008,
+      "id": 2
+    },
+    {
+      "name": "c",
+      "body": "",
+      "time": 1702467713901,
+      "id": 3
+    },
+    {
+      "name": "d",
+      "body": "",
+      "time": 1702467718520,
+      "id": 4
+    },
+    {
+      "name": "e",
+      "body": "",
+      "time": 1702467724264,
+      "id": 5
+    },
+    {
+      "name": "f",
+      "body": "",
+      "time": 1702467727799,
+      "id": 6
+    },
+    {
+      "name": "h",
+      "body": "",
+      "time": 1702467908380,
+      "id": 8
+    },
+    {
+      "name": "aa",
+      "body": "",
+      "time": 1702468855954,
+      "id": 9
+    },
+    {
+      "name": "bb",
+      "body": "",
+      "time": 1702472886272,
+      "id": 10
+    }
+  ]
+}
