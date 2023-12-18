@@ -24,11 +24,11 @@ To run the project locally, follow the instructions below:
 
 1. Ensure that you have Node.js installed on your computer.
 
-2. Clone the repository using the following command: git clone https://github.com/budcalmy/budcalmyNotion.github.io.git
+2. Clone the repository using the following command: `git clone https://github.com/budcalmy/budcalmyNotion.github.io.git`
 
-3. Navigate to the project directory: cd budcalmyNotion.github.io
-4. Install the dependencies: npm install
-5. Start the application in development mode: npm start
+3. Navigate to the project directory: `cd budcalmyNotion.github.io`
+4. Install the dependencies: `npm install`
+5. Start the application in development mode: `npm start`
 6. Open your browser and go to http://localhost:3000 to see the running application.
 
 ## Available Scripts
